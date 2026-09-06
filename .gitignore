@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Envs
+venv/
+env/
+ENV/
+.venv/
+
+# SQLite Database Files
+*.db
+*.sqlite3
+*.sqlite
+
+# VS Code directory & User settings
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+.env.local
